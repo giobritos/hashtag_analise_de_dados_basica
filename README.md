@@ -89,6 +89,6 @@ Contribuições são bem-vindas! Se você tiver sugestões de melhorias na anál
 
 ## Agradecimentos
 
-Agradecemos ao Professor João Paulo Rodrigues de Lira da Hashtag Treinamentos pelo projeto idealizado e à comunidade de código aberto pelas bibliotecas Pandas e Plotly, que tornaram possível a realização desta análise de dados. 
+Agradeço ao Professor João Paulo Rodrigues de Lira da Hashtag Treinamentos pelo projeto idealizado e à comunidade de código aberto pelas bibliotecas Pandas e Plotly, que tornaram possível a realização desta análise de dados. 
 
 **Desenvolvido com ❤️ e Python.**
